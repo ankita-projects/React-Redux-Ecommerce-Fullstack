@@ -4,7 +4,7 @@ import "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDniyhK46KyCVzN4PkypDIKjMEZLfTUx64",
+  apiKey: "AIzaSyDIukNOVHr5oOkNDhJQZvjciXIPMSAWYQc",
   authDomain: "ecommerce-225c8.firebaseapp.com",
   databaseURL: "https://ecommerce-225c8.firebaseio.com",
   projectId: "ecommerce-225c8",
